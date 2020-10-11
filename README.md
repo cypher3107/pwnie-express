@@ -1,10 +1,8 @@
 # PWN PHONE - DREAM DEVICE FOR HACKERS
 
-<p align="center"><img src="https://github.com/thehackingsage/pwnphone/blob/master/img/pwnphone.gif?raw=true" /></p>
+<p align="center"><img src="https://github.com/cypher3107/pwnie-express.git/pwnphone/blob/master/img/pwnphone.gif?raw=true" /></p>
 
 The Pwn Phone is a real-life product made by a Boston-based startup called Pwnie Express. The "dream device for hackers" allows users to check if there are any vulnerabilities in wired, wireless, or Bluetooth networks, and it looks like a regular cell phone. If you have a spare $1,095 sitting around, you can buy one here.
-
-Pwn Phone 2014 Demo : [YouTube](https://www.youtube.com/watch?v=He_bxvcvFGE)
 
 but if you have few things then you can also build your own Pwn Phone.
 
@@ -64,17 +62,5 @@ I know because of Mr.Robot's popularity many people would like to try it.. but c
 i recommend you guys to try [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/). it is also free and much better than pwn phone and most important thing, you will receive the regular updates..
 
 Watch This : [Kali Nethunter - Everything You Need To Know + Installation](https://www.youtube.com/watch?v=7QKqHWosCsU) (Language : Hindi)
-
-## Download Links :
-
-Download PwnPhone ROM for Nexus 5 : [Google Drive](https://drive.google.com/open?id=1FH7QOZwE6H9lgyUAKixtPvd9WKqImE9w)
-
-## Video
-
-YouTube : [How to turn your phone into a "Pwn Phone"](https://www.youtube.com/watch?v=x-TLSKqg6CI) (Language : Hindi)
-
-That's It... If You Like This Repo. Please Share This With Your Friends..
-
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
 
 ***Happy Hacking!!!***
