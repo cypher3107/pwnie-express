@@ -1,7 +1,5 @@
 # PWN PHONE - DREAM DEVICE FOR HACKERS
 
-<p align="center"><img src="https://github.com/cypher3107/pwnie-express.git/pwnphone/blob/master/img/pwnphone.gif?raw=true" /></p>
-
 The Pwn Phone is a real-life product made by a Boston-based startup called Pwnie Express. The "dream device for hackers" allows users to check if there are any vulnerabilities in wired, wireless, or Bluetooth networks, and it looks like a regular cell phone. If you have a spare $1,095 sitting around, you can buy one here.
 
 but if you have few things then you can also build your own Pwn Phone.
